@@ -49448,7 +49448,7 @@ return A.x(null,r)}})
 return A.y($async$$0,r)},
 $S:7}
 A.aGS.prototype={
-$3(a,b,c){return A.m1("assets/images/error_image.png",B.bu,200,1/0)},
+$3(a,b,c){return A.m1("assets/images/error_image.jpeg",B.bu,200,1/0)},
 $S:132}
 A.aGT.prototype={
 $0(){var s=0,r=A.z(t.H),q=this,p
@@ -50089,7 +50089,7 @@ r=new A.eX(b,B.a1t,A.t(t.N,s))
 q=this.a
 p=A.Ls(b).gcL().fz(0,r.ga0h())?A.Ua(new A.ajJ(q,r),r.arZ(),t.y):q.e.$2(a,r)
 q=this.b
-o=q.b==null||q.c?A.bg(n,A.m1("assets/images/logo.png",B.ok,n,n),B.o,B.p,n,n,n,n,n,n):p
+o=q.b==null||q.c?A.bg(n,A.m1("assets/images/logo.jpeg",B.ok,n,n),B.o,B.p,n,n,n,n,n,n):p
 if(A.aIX(b).ag(m))t.xe.a(A.aIX(b).h(0,m))
 s=A.b3k(n,o,b.y,n,n,s)
 return s},
@@ -51268,10 +51268,10 @@ else{r=A.aH(8)
 return A.n9(r,A.aXc(s,new A.aJf(),B.bu,100,100),B.aR)}}},
 $S:14}
 A.aJe.prototype={
-$3(a,b,c){return A.m1("assets/images/error_image.png",B.bu,100,100)},
+$3(a,b,c){return A.m1("assets/images/error_image.jpeg",B.bu,100,100)},
 $S:132}
 A.aJf.prototype={
-$3(a,b,c){return A.m1("assets/images/error_image.png",B.bu,100,100)},
+$3(a,b,c){return A.m1("assets/images/error_image.jpeg",B.bu,100,100)},
 $S:132}
 A.aJR.prototype={
 $0(){var s=0,r=A.z(t.H),q=this
